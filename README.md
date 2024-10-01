@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gokhan Gurcan</h1>
-<h3 align="center">An Electrical and Electronics Engineer with a strong interest in embedded systems, algorithms, and exploring different fields.</h3>
+<h1 align="align">Hi 👋, I'm Gokhan Gurcan</h1>
+<h3 align="align">An Electrical and Electronics Engineer with a strong interest in embedded systems, algorithms, and exploring different fields.</h3>
 
 - 📫 How to reach me **gokhanngurcan@gmail.com**
 
